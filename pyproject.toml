@@ -1,0 +1,13 @@
+[project]
+name = "quickseat-bot"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "dotenv>=0.9.9",
+    "fastapi[standard]>=0.115.12",
+    "openai-agents>=0.0.16",
+    "pydantic>=2.11.5",
+    "uvicorn>=0.34.2",
+]

@@ -1,1 +1,0 @@
-# QuickSeat-bot
